@@ -1,0 +1,11 @@
+#wrapper{
+    margin-top: 120px;   
+}
+.btn{
+    margin-top: 5px;
+}
+.lgtcol {
+    background: url(../img/leaguetable.png);
+    height: 250px;
+    width: 350px;
+}
